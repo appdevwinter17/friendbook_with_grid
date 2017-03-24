@@ -55,9 +55,9 @@ a:hover {
 /* Styles for top cover */
 
 .top-cover {
-  background: url("dde-cover.jpg") no-repeat center bottom;
+  background: url("raghu-b-cover.jpg") no-repeat center bottom;
   background-size: cover;
-  height: 440px;
+  height: 300px;
 }
 
 .cover-content {
