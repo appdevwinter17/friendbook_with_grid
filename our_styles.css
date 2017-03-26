@@ -92,7 +92,7 @@ a:hover {
 
 .photograph {
   width: 200px;
-  margin: 10px;
+  margin: 0px;
   border-style: solid;
   border-width: 5px;
   border-color: rgb(240, 240, 240);
